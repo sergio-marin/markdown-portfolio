@@ -1,1 +1,1 @@
-[GitHub][https://github.com/sergio-marin]
+[GitHub](https://github.com/sergio-marin)
